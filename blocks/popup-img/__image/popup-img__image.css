@@ -1,0 +1,11 @@
+.popup-img__image {
+ 
+    background: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    size: 100%;
+    align-items: center;
+    width: 80vw;
+    height: 80vh;
+    background-color: rgba(0, 0, 0, .5);
+  }

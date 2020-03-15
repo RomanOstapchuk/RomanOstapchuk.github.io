@@ -1,0 +1,7 @@
+.popup-img__close {
+    position: relative;
+    margin: auto -26px 0 auto;
+    width: 26px;
+    cursor: pointer;
+    z-index: 9999;
+}

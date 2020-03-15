@@ -1,0 +1,4 @@
+.popup-edit.popup_is-opened {
+  display: flex;
+  z-index: 99999;
+}
